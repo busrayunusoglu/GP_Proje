@@ -1,0 +1,42 @@
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe.config
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.Properties.Resources.resources
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.GirisEkrani.resources
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KayitEkrani.resources
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KullaniciEkrani.resources
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.YoneticiEkrani.resources
+C:\Users\CASPER\Desktop\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.SiparisOnay.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe.config
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.GirisEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KayitEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KullaniciEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.SiparisOnay.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.YoneticiEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\1180505023_Büşra_Yunusoğlu_GP_Projesi\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe.config
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\bin\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.GirisEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KayitEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.KullaniciEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.SiparisOnay.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\_1180505023_Büşra_Yunusoğlu_GP_Projesi.YoneticiEkrani.resources
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.exe
+C:\Users\CASPER\Desktop\Görsel Programlama (C#)\➤\PROJEM\1180505023_Büşra_Yunusoğlu_GP_Projesi\obj\Debug\1180505023_Büşra_Yunusoğlu_GP_Projesi.pdb
